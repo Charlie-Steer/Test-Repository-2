@@ -7,5 +7,5 @@ void myFunc(string message)
   {
     Debug.Log(i);
   }*/
-  Debug.Log(message);
+  Debug.Log(breakingChange);
 }
