@@ -1,10 +1,11 @@
-int myInt = 10;
+string myString = "this is a string";
 float myFloat = 11.0f;
 
-int myFunc(int number)
+void myFunc(string message)
 {
-  for (int i = 0; i<number; i++)
+  /*for (int i = 0; i<number; i++)
   {
     Debug.Log(i);
-  }
+  }*/
+  Debug.Log(message);
 }
